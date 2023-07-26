@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Soulution](https://github.com/moncadad/QR-code-component)
+- Solution URL: [Solution](https://github.com/moncadad/QR-code-component)
 - Live Site URL: [Live](https://statuesque-pegasus-53c4ef.netlify.app/)
 
 ## My process
